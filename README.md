@@ -1,2 +1,2 @@
 # RMCanalysis
-Calculations of atomic structure of several crystals.
+Calculations of atomic structure of several crystalline materials.
